@@ -4,6 +4,7 @@
       <mapping pattern="fonts" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="menu_main" type="XML" />
+      <mapping ext="rawproto" type="YouTrack" />
     </extensionMap>
   </component>
 </application>
