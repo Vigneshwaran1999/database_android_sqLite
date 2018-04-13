@@ -1,0 +1,13 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Refactorings/Introduce local variable" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
+    <ignoreAction name="Android/Insert App Indexing API Code" />
+    <ignoreAction name="Java/Declaration/Move assignment to field declaration" />
+    <ignoreAction name="Android/Extract string resource" />
+    <ignoreAction name="Java/Other/Swap Method Call Arguments" />
+    <ignoreAction name="Java/Strings/Copy String Concatenation Text to the Clipboard" />
+    <ignoreAction name="Java/Boolean/Flip Comparison" />
+    <ignoreAction name="Java/Annotations/Edit method contract" />
+  </component>
+</application>
