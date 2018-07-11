@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="graphql" type="JSON Schema" />
       <mapping pattern="fonts" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping pattern="menu_main" type="XML" />
