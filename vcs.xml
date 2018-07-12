@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/Vigneshwaran1999/database_android_sqLite.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="vignesh199928@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/karthick" />
