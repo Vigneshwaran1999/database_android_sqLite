@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="courncy" type="JSON" />
       <mapping pattern="graphql" type="JSON Schema" />
       <mapping pattern="fonts" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
